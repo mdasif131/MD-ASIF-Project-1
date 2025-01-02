@@ -10,8 +10,11 @@
 
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 </div>
-<div aling="center">
-  Skills asf
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=mdasif131&color=red)
+
+Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 </div>
 
 - 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
