@@ -8,12 +8,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=mdasif131&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
-</div>
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=mdasif131&color=red)
-
 Skills: HTML / CSS / Tailwind CSS / BOOTSTRAP / JS / TS / ES /  JSON / DOM / API INTERGRATION / React JS / React Redux / Daisy UI / Next UI / Shadcn / Node JS / Express JS / Firebase / MongoDB / Mongoose / Next JS / Prisma /  PostgreSQL / MYSQL 
 </div>
 
