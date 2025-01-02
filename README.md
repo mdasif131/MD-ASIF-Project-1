@@ -11,13 +11,11 @@
 Skills: HTML / CSS / Tailwind CSS / BOOTSTRAP / JS / TS / ES /  JSON / DOM / API INTERGRATION / React JS / React Redux / Daisy UI / Next UI / Shadcn / Node JS / Express JS / Firebase / MongoDB / Mongoose / Next JS / Prisma /  PostgreSQL / MYSQL 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently Learning on [Hablu Programmer](https://www.hablu-programmer.com/)
 
 - 🌱 I’m currently learning Golang, Java, C++
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
-
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/mdasif131)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
