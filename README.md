@@ -9,7 +9,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=mdasif131&color=red)
 
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
-asdd
+</div>
+<div aling="center">
+  Skills asf
 </div>
 
 - 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
